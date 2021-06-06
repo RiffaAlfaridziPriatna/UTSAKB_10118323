@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warnaPutih">#FFFFFF</color>
+    <color name="warnaBiru">#0093DD</color>
+    <color name="warnaHitam">#000000</color>
+    <color name="warnaMerahMuda">#FF5E70</color>
+    <color name="warnaHijauMuda">#4CAF50</color>
+    <color name="textAbu">#666666</color>
+    <color name="warnaAbuHover">#999999</color>
+</resources>
